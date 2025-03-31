@@ -37,6 +37,8 @@ Para visualizar e simular o circuito, siga os seguintes passos:
    No LogisimEvolution, vá até `File` > `Open` e selecione o arquivo `somador_subtrator.circ`.
 4. **Simule o Circuito:**  
    Utilize as funcionalidades do LogisimEvolution para simular o circuito, testar diferentes entradas e verificar os resultados das operações de adição e subtração.
+5. **Vídeo do Projeto:**
+   O projeto foi gravado por mim e postado em meu canal do [YouTube](https://www.youtube.com/watch?v=XO_C6luJXb0).
 
 ## Desafios e Considerações
 
